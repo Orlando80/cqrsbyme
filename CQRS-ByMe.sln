@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS-ByMe", "CQRS-ByMe\CQRS-ByMe.csproj", "{77115CFB-5066-47B1-A83C-74A695A27AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{3DAF4025-72F4-4A47-9F20-C47BA68BEED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77115CFB-5066-47B1-A83C-74A695A27AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77115CFB-5066-47B1-A83C-74A695A27AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77115CFB-5066-47B1-A83C-74A695A27AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77115CFB-5066-47B1-A83C-74A695A27AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAF4025-72F4-4A47-9F20-C47BA68BEED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAF4025-72F4-4A47-9F20-C47BA68BEED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAF4025-72F4-4A47-9F20-C47BA68BEED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAF4025-72F4-4A47-9F20-C47BA68BEED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
